@@ -4,7 +4,7 @@ var app = angular.module('pokedex', []);
 
 app.controller('PokemonController', function () {
  this.pokemon = {
- 	id: 001,
+ 	id: 002,
  	name: 'Bulbasaur',
  	species: 'Seed Pokemon',
  	type: [' Grass', 'Poison'],
